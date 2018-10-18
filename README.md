@@ -35,3 +35,5 @@ Github : www.github.com/crazymuse
 Twitter : www.twitter.com/crazymuse
 
 Medium :  www.medium.com/crazymuse
+
+Structured Videos: https://goo.gl/KwP9JX
